@@ -2545,7 +2545,7 @@
     "requiredContextRole": [],
     "requiredOwnedElements": [],
     "requiredProps": [],
-    "superClass": ["none"]
+    "superClass": ["section"]
   },
   "doc-qna": {
     "abstract": false,
